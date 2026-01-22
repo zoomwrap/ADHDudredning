@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang='da'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Eleuthreria/Kontakt</title>
+    <link rel='stylesheet' href='stylepages.css'>
+    <link rel='stylesheet' href='navbar.css'>
+        <link rel='stylesheet' href='contact.css'>
+    <script src='script.js' defer></script>
+</head>
+
+<body>
+
+   <!-- Navigation bar start -->
+    <div class="navbar">
+        <div id="brand"></div>
+        <div class="nav-center">
+            <a href="index.html">
+                <div id="navlink1"></div>
+            </a>
+            <a href="course.html">
+                <div id="navlink2"></div>
+            </a>
+            <a href="helpUnravel.html">
+                <div id="navlink3"></div>
+            </a>
+            <a href="clinic.html">
+                <div id="navlink4"></div>
+            </a>
+            <a href="price.html">
+                <div id="navlink5"></div>
+            </a>
+            <a href="about.html">
+                <div id="navlink6"></div>
+            </a>
+        </div>
+    <div class="nav-right">
+            <a href="contact.html">
+                <div id="navlink7"></div>
+            </a>
+    </div>
+    </div>
+<!-- Navigation bar end -->
+
+    <div class="page-wrapper">
+        <div class="content-card">
+
+            <!-- INDHOLD START -->
+  <h1 class="title">
+    Kontakt
+  </h1>
+
+
+  <div class="contact-grid">
+
+    <div class="contact-card">
+      <div class="image-wrapper">
+        <img src="images/anonymMand.png" alt="Kontaktperson">
+      </div>
+
+      <div class="contact-info">
+        <span class="name">Morten Jensen</span>
+        <span class="job">Leder</span>
+        <span class="info">Mobil: 12345678</span>
+        <span class="info">Email: morten@test.dk</span>
+      </div>
+    </div>
+
+
+
+<form class="contact-form">
+    <label for="name">Navn*</label>
+    <input type="text" id="name" name="name" placeholder="Dit navn" required>
+
+    <label for="email">Email*</label>
+    <input type="email" id="email" name="email" placeholder="din@email.dk" required>
+
+    <label for="message">Hvad drejer henvendelsen sig om?*</label>
+    <textarea id="message" name="message" rows="5" placeholder="Skriv din besked her..." required></textarea>
+
+    <label for="personType">Barn eller voksen*</label>
+<select id="personType" name="personType" required>
+    <option value="">Vælg...</option>
+    <option value="barn">Barn</option>
+    <option value="voksen">Voksen</option>
+</select>
+
+<label for="country">Foretrukket land til udredning</label>
+<select id="country" name="country">
+    <option value="">Vælg...</option>
+    <option value="dk">Danmark</option>
+    <option value="de">Tyskland</option>
+    <option value="pl">Polen</option>
+    <option value="se">Sverige</option>
+</select>
+
+    <button type="submit">Send</button>
+    <p>* Udfyld gerne, hvis svar ønskes</p>
+</form>
+  </div>
+            <!-- INDHOLD SLUT -->
+
+        </div>
+    </div>
+
+
+</body>
+
+</html>

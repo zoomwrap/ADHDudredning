@@ -1,26 +1,21 @@
 {
-  "brand": "Mortens Firmanavn",
+  "brand": "Eleutheria",
   "navlink1": "Hjem",
-  "navlink2": "Social",
+  "navlink2": "Forløb",
   "navlink3": "Udredning",
+  "navlink4": "Klinikoversigt",
+  "navlink5": "Priser",
+  "navlink6": "Om",
+  "navlink7": "Kontakt",
   "heroImage": {
     "src": "images/globally.jpg",
-    "alt": "Neuroner"
+    "alt": "Billede af jordklode set fra rummet, hjerne og ur"
   },
   "title": "Udredning af ADHD hos voksne og børn",
-  "subtitle": "Her kan du finde viden og hjælp til udredning af ADHD.",
-  "column1Image": {
-    "src": "images/brainfantasy.jpg",
-    "alt": "Billede relateret til ADHD diagnose"},
+  "subtitle": "Her kan du finde viden og hjælp til udredning af ADHD. \n Ved yderligere spørgsmål, kontakt os venligst.",
   "column1Title": "Hvordan stilles diagnosen ADHD?",
   "column1Text": "Der er ikke en specifik test, undersøgelse, røntgen, scanning eller andet, som kan give diagnosen ADHD. Den bliver stillet på baggrund af en vurdering af dine symptomer og de vanskeligheder, du har i din hverdag. Psykiateren vil også spørge ind til, hvordan det har været i din barndom.",
-    "column2Image": {
-    "src": "images/neurons.jpg",
-    "alt": "ADHD"},
   "column2Title": "ADHD",
   "column2Text": "ADHD (Attention Deficit Hyperactivity Disorder) er en neurobiologisk udviklingsforstyrrelse, der påvirker hjernens evne til at regulere opmærksomhed, impulskontrol og aktivitetsniveau, hvilket skaber udfordringer med koncentration, hyperaktivitet og/ofte impulsivitet, men det kan også vise sig som uopmærksomhed (ADD). Det er en spektrumforstyrrelse, der viser sig forskelligt, og kan føre til problemer i skolen, på arbejdet og sociale relationer. Nogle med ADHD kan dog opleve hyperfokus på interessante opgaver, mens andre kæmper med det modsatte, og tilstanden kan ofte kombineres med andre diagnoser.",
-    "column3Image": {
-    "src": "images/cpubrain.jpg",
-    "alt": "Billede relateret til ADHD diagnose"},
   "column3Title": "Hjælp til udredning?",
-  "column3Text": "For at få hjælp til udredning af ADHD skal du starte med at tale med din egen læge.\n\nGennem det offentlige system (gratis):\nKontakt egen læge: Fortæl om dine mistanker.\nHenvisning: Lægen henviser dig.\nVentetid: Der kan være ventetid.\n\nPrivate tilbud (med betaling):\nSpecialklinikker: Aleris PP, Mølholm, Carelink.\nFordele: Kortere ventetid."}
+  "column3Text": "Det kan være en jungle, at finde den rigtige hjælp og tage lang tid, når man mistænker ADHD og leder efter udredning. Her kan jeg hjælpe med... "}
