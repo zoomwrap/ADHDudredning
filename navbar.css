@@ -62,6 +62,7 @@ nav {
 
   font-size: 28px;
   font-family: inherit;
+  font-weight: bold;
   background: none;
   border: none;
   color: #000;
@@ -85,7 +86,8 @@ nav {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  font: bold normal 18px Verdana, Arial, Helvetica, sans-serif;
+  font-family: 18px Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
   color: #000;
 }
 
@@ -159,7 +161,8 @@ nav {
   .brand {
     display: flex;
     justify-content: flex-start;
-    font: bold normal 18px Verdana, Arial, Helvetica, sans-serif;
+    font-family: 18px Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
     color: #000;
     position: relative;
     top: 2px;
