@@ -71,15 +71,16 @@ nav {
   padding: 0;
   line-height: 1;
 
-  outline: none;
-  -webkit-appearance: none;
-  appearance: none;
-  -webkit-tap-highlight-color: transparent;
+
 }
 
 .hamburger-icon {
   display: block;
   line-height: 1;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* Brand-navnet */
