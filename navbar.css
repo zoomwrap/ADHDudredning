@@ -163,6 +163,6 @@ nav {
     font: bold normal 18px Verdana, Arial, Helvetica, sans-serif;
     color: #000;
     position: relative;
-    top: -3px;
+    top: 3px;
   }
 }
