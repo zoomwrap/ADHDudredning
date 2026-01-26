@@ -55,8 +55,6 @@ nav {
 
 /* Hamburger menu */
 .hamburger-btn {
-  width: 44px;
-  height: 44px;
 
   display: flex;
   align-items: center;
@@ -70,7 +68,6 @@ nav {
 
   padding: 0;
   line-height: 1;
-
 
 }
 
@@ -90,6 +87,8 @@ nav {
   justify-content: flex-start;
   font: bold normal 18px Verdana, Arial, Helvetica, sans-serif;
   color: #000;
+  position: relative;
+  top: -1px;
 }
 
 /* Kontakt link i højre side */
